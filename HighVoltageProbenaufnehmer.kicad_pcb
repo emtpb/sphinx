@@ -140,6 +140,7 @@
 		(property "Reference" "H7"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f9cdd8ca-0581-4879-8760-7c0c8aadda24")
 			(effects
 				(font
@@ -383,6 +384,7 @@
 		(property "Reference" "H5"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f16a9d4d-a381-484a-aff6-1c5569649304")
 			(effects
 				(font
@@ -2235,6 +2237,7 @@
 		(property "Reference" "H4"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2e88a038-abc7-437f-918e-27d8bae27b33")
 			(effects
 				(font
@@ -3965,6 +3968,7 @@
 		(property "Reference" "H8"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7f533f92-51a4-48a1-a00d-a5500309cb6d")
 			(effects
 				(font
@@ -4386,6 +4390,7 @@
 		(property "Reference" "H6"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3a7b4916-2be0-4bf7-a6d3-f88a405a3b5b")
 			(effects
 				(font
@@ -6102,6 +6107,7 @@
 		(property "Reference" "H3"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "918c0b3b-55b0-45ed-b8c5-52ac652dcb3f")
 			(effects
 				(font
