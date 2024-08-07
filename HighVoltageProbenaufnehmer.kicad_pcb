@@ -265,7 +265,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H10"
-			(at 0 5.915 0)
+			(at -0.055 4.165 0)
 			(layer "F.SilkS")
 			(uuid "cfda51eb-c00c-4aef-86f4-49dc60aabe83")
 			(effects
@@ -1631,7 +1631,7 @@
 		(descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x02 2.54mm double row")
 		(property "Reference" "J6"
-			(at 1.27 -2.33 90)
+			(at 1.447719 -3.380627 90)
 			(layer "F.SilkS")
 			(uuid "0b2da0ac-7b35-4e9c-89e6-4b936653166c")
 			(effects
@@ -2362,7 +2362,7 @@
 		(descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x02 2.54mm double row")
 		(property "Reference" "J7"
-			(at 1.27 -2.33 90)
+			(at 1.27 -3.12 90)
 			(layer "F.SilkS")
 			(uuid "7733f1cc-9099-4467-a743-bfc3c655d404")
 			(effects
@@ -6232,7 +6232,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "D6"
-			(at -1.915 -4.5 0)
+			(at 5.955243 0.012053 90)
 			(layer "F.SilkS")
 			(uuid "bae89207-85e0-4bf6-8a50-3f549f56160f")
 			(effects
@@ -7286,7 +7286,7 @@
 		(descr "Mounting Hole 3.2mm, M3, DIN965")
 		(tags "mounting hole 3.2mm m3 din965")
 		(property "Reference" "H9"
-			(at 0 -4.469457 0)
+			(at 0 -4.409457 0)
 			(layer "F.SilkS")
 			(uuid "a72a10b8-5ab9-4855-a0c2-c17fb59b7cb6")
 			(effects
@@ -8553,7 +8553,7 @@
 		(descr "TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
 		(tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
 		(property "Reference" "D5"
-			(at 0.625 4.445 0)
+			(at -7.319658 -0.001279 90)
 			(layer "F.SilkS")
 			(uuid "2c3959ed-dfa6-4ff4-a670-49ad4e2aba3f")
 			(effects
@@ -10550,7 +10550,7 @@
 		(uuid "ff6c57a8-0060-456c-9c2d-3e691103c538")
 	)
 	(gr_text "HV"
-		(at 145.585425 22.975429 90)
+		(at 146.685 22.975429 90)
 		(layer "F.SilkS")
 		(uuid "0c2a3b25-0651-4308-9626-8a633f8f1822")
 		(effects
@@ -10562,7 +10562,7 @@
 		)
 	)
 	(gr_text "GND\n"
-		(at 145.59196 80.155653 90)
+		(at 146.685 80.155653 90)
 		(layer "F.SilkS")
 		(uuid "25ee74db-f0a3-4038-a3c9-ceb18d29eded")
 		(effects
