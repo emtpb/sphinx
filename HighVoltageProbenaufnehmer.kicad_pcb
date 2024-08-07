@@ -643,7 +643,7 @@
 	(footprint "Symbol-emt:UPB-Logo_En_15.9X5.6mm"
 		(layer "F.Cu")
 		(uuid "181c8a18-15a2-4650-8c38-9624bbaa9e7e")
-		(at 109.49 37.855 90)
+		(at 109.49 45.72 90)
 		(descr "UPB-Logo_En")
 		(tags "UPB-Logo_En")
 		(property "Reference" "H2"
@@ -3674,7 +3674,7 @@
 	(footprint "Symbol-emt:EMT-Logo_11.7x5.9mm_Silkscreen"
 		(layer "F.Cu")
 		(uuid "7d72ba01-ffda-4d61-a7d6-0db8a50daf29")
-		(at 123.39 39.755 90)
+		(at 122.555 35.56 90)
 		(descr "EMT-Logo")
 		(tags "EMT-Logo")
 		(property "Reference" "H1"
@@ -10580,7 +10580,7 @@
 		)
 	)
 	(gr_text "Olga Friesen 08.2024\nSPHINX v1.0"
-		(at 118.39 53.755 90)
+		(at 116.205 43.18 90)
 		(layer "F.SilkS")
 		(uuid "dcfaa162-398b-4342-921c-c2a259c7ff14")
 		(effects
@@ -10588,7 +10588,6 @@
 				(size 1.5 1.5)
 				(thickness 0.2)
 			)
-			(justify left bottom)
 		)
 	)
 	(gr_text "GND\n"
