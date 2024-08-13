@@ -1550,6 +1550,12 @@
 		(uuid "c500ec02-feb3-44d0-ad8c-b7b6ac045102")
 	)
 	(junction
+		(at 177.8 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cefacd69-c1a4-40f2-a19f-6fb63fe7f5e1")
+	)
+	(junction
 		(at 181.61 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1797,6 +1803,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 147.32) (xy 181.61 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3511fe57-3d15-492d-8597-1ad94dae39b5")
+	)
+	(wire
+		(pts
 			(xy 204.47 63.5) (xy 204.47 119.38)
 		)
 		(stroke
@@ -1904,6 +1920,16 @@
 			(type default)
 		)
 		(uuid "5891318f-1b3b-4364-9449-a0dd456533e7")
+	)
+	(wire
+		(pts
+			(xy 177.8 147.32) (xy 177.8 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59bb80bd-4b13-4c3e-ba90-3373f349f8be")
 	)
 	(wire
 		(pts
@@ -2577,7 +2603,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 147.32) (xy 181.61 147.32)
+			(xy 167.64 147.32) (xy 177.8 147.32)
 		)
 		(stroke
 			(width 0)
@@ -3786,6 +3812,72 @@
 			(project ""
 				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
 					(reference "R2.2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 177.8 148.59 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "555af02f-3f4a-4765-a1a2-d0e10e077f44")
+		(property "Reference" "#FLG02"
+			(at 177.8 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 177.8 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 177.8 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0920944d-e5b7-4545-807d-fd7052adbfe0")
+		)
+		(instances
+			(project "HighVoltageProbenaufnehmer"
+				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
