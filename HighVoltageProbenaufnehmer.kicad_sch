@@ -2893,7 +2893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 189.23 110.1852 0)
 			(effects
 				(font
@@ -3506,7 +3506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 189.23 89.8652 0)
 			(effects
 				(font
@@ -4568,7 +4568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 189.23 100.0252 0)
 			(effects
 				(font
@@ -4637,7 +4637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 189.23 120.3452 0)
 			(effects
 				(font
@@ -4838,7 +4838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 171.1452 101.6 0)
 			(effects
 				(font
@@ -5251,7 +5251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 145.7452 101.6 0)
 			(effects
 				(font
@@ -5384,7 +5384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 182.5752 101.6 0)
 			(effects
 				(font
@@ -5656,7 +5656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M_T4"
+		(property "Footprint" "Capacitor_THT-emt:CP_MKP386M510200YT4"
 			(at 158.4452 101.6 0)
 			(effects
 				(font
