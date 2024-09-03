@@ -37,6 +37,7 @@ rescue-backup/
 
 *.tsv
 bom/
+!bom/ibom.html
 
 # Gerber export output
 out/
