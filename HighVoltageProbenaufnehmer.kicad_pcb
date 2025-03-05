@@ -520,7 +520,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1407,7 +1407,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "Central Semiconductor - CMOZ3L3 TR PBFREE"
 			(at 0 1.4 0)
 			(layer "F.Fab")
 			(uuid "e7c53da5-0283-4a46-af53-c50bf68b39db")
@@ -2001,7 +2001,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "6986a132-7deb-4a0f-aa93-17666caca226")
@@ -2732,7 +2732,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "94a5d762-dd2f-4fa8-a075-a687cb0aed48")
@@ -3027,7 +3027,7 @@
 				)
 			)
 		)
-		(property "Value" "40k"
+		(property "Value" "Bourns - PWR221T-30-4002F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "7c2b91ed-bb66-4263-ac5d-32ca638edb26")
@@ -4154,7 +4154,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "d1d650d0-d035-4da4-ae55-32ded264a8c1")
@@ -4576,7 +4576,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "MCC - SMBJ5368B-TP"
 			(at 0 3.1 90)
 			(layer "F.Fab")
 			(uuid "9d3dabf1-bce8-4391-b912-c196ad10f694")
@@ -4861,7 +4861,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "e4e6d302-42f5-4363-97c5-f67d7268aa98")
@@ -5156,7 +5156,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "de3917ce-de1a-42c4-b6c6-74177ba89fcd")
@@ -5871,7 +5871,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "e07153b4-846c-4de2-b60d-b78703e2d7d7")
@@ -6293,7 +6293,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "Vishay - VS-8EWS16STR-M3"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "3c708498-004f-42f7-8227-4d119dea3f00")
@@ -6648,7 +6648,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7259,7 +7259,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7986,7 +7986,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "eb7cb136-892a-47b6-b9db-8bdea40df332")
@@ -8282,7 +8282,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8472,7 +8472,7 @@
 				)
 			)
 		)
-		(property "Value" "130k"
+		(property "Value" "Bourns -  PWR220T-20-1303F"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
 			(uuid "62edd693-eed1-4abb-b73d-3d88e9dfdfc4")
@@ -8767,7 +8767,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "Vishay - VS-8EWS16STR-M3"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "90f408fe-2c1d-4408-85ba-ba307c9a4adb")
@@ -9121,8 +9121,8 @@
 				)
 			)
 		)
-		(property "Value" "40k"
-			(at 2.54 2.5 0)
+		(property "Value" "Bourns - PWR221T-30-4002F"
+			(at 2.54 3.792 0)
 			(layer "F.Fab")
 			(uuid "bd319d33-8e0f-4278-b2c1-5d7af697dcc3")
 			(effects
@@ -9416,7 +9416,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "MCC - SMBJ5368B-TP"
 			(at 0 3.1 90)
 			(layer "F.Fab")
 			(uuid "1ef19817-bf79-45fb-9c93-77ea0565c3ec")
@@ -9701,7 +9701,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "Central Semiconductor - CMOZ3L3 TR PBFREE"
 			(at 0 1.4 0)
 			(layer "F.Fab")
 			(uuid "e1fa18fd-3e38-4fdc-af80-19f636b2c84a")
@@ -9988,7 +9988,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 -1 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10185,7 +10185,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 -1 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10382,7 +10382,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 -1 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10579,7 +10579,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "Vishay - MKP386M510200YT4"
 			(at 12.25 -1 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11505,8 +11505,8 @@
 			(justify left)
 		)
 	)
-	(gr_text "Olga Friesen 08.2024\nSPHINX v1.1"
-		(at 164.141 53.234572 90)
+	(gr_text "Olga Friesen\nLars Meihost\n08.2024\nSPHINX v1.1"
+		(at 166.5 58.5 90)
 		(layer "F.SilkS")
 		(uuid "dcfaa162-398b-4342-921c-c2a259c7ff14")
 		(effects
