@@ -2671,7 +2671,7 @@
 	)
 	(text "U_{D}=47V"
 		(exclude_from_sim no)
-		(at 227.838 136.906 0)
+		(at 226.568 136.906 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3097,74 +3097,6 @@
 			(project ""
 				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
 					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Zener")
-		(at 147.32 69.85 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1a4aa7c6-0ba2-43cb-9826-9d8c722236ae")
-		(property "Reference" "D3"
-			(at 138.43 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Central Semiconductor - CMOZ3L3 TR PBFREE"
-			(at 144.526 59.436 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 147.32 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "91daa8ee-6834-4d0d-8d9d-849b1508d4f0")
-		)
-		(pin "2"
-			(uuid "21d4ef48-74b8-4ac9-b677-102bc7b75d85")
-		)
-		(instances
-			(project ""
-				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
-					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -4980,74 +4912,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Zener")
-		(at 168.91 69.85 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9d3426f8-aeca-488d-bba4-02f2d6454cb1")
-		(property "Reference" "D4"
-			(at 161.036 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Central Semiconductor - CMOZ3L3 TR PBFREE"
-			(at 165.862 59.436 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 168.91 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 168.91 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 168.91 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "be45e879-bbaf-4ce5-9f11-fb4df7d1cbe4")
-		)
-		(pin "2"
-			(uuid "81708657-ddc4-4975-ab16-33b1a717060c")
-		)
-		(instances
-			(project ""
-				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 17.78 31.75 0)
 		(unit 1)
@@ -5205,7 +5069,7 @@
 			)
 		)
 		(property "Value" "MCC - SMBJ5368B-TP"
-			(at 246.38 134.62 90)
+			(at 245.11 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5452,6 +5316,75 @@
 			(project ""
 				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
 					(reference "C2.1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 168.91 69.85 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c51bd75d-6105-44b3-a443-5ddda5f23cf0")
+		(property "Reference" "D7"
+			(at 161.036 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "onsemi - SZ1SMB5913BT3G"
+			(at 165.862 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD-emt:D_403A-03"
+			(at 168.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 168.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 168.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6ef9eaea-1876-4836-bbb6-bcec69346397")
+		)
+		(pin "1"
+			(uuid "1dcc469e-1bb0-42fc-9d4d-93d537a842a3")
+		)
+		(instances
+			(project ""
+				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -5986,6 +5919,75 @@
 			(project "HighVoltageProbenaufnehmer"
 				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
 					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 147.32 69.85 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee939e5d-9beb-4c0a-a79a-6623ae50d1ea")
+		(property "Reference" "D3"
+			(at 138.938 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "onsemi - SZ1SMB5913BT3G"
+			(at 144.78 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD-emt:D_403A-03"
+			(at 147.32 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 147.32 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f0a3fdbc-4421-4ed9-9c90-e16d20da678f")
+		)
+		(pin "1"
+			(uuid "da4ce6a4-625a-492c-9af9-5a1a75d66c43")
+		)
+		(instances
+			(project "HighVoltageProbenaufnehmer"
+				(path "/036767a2-0bc7-435e-b401-787fdb110da5"
+					(reference "D3")
 					(unit 1)
 				)
 			)
