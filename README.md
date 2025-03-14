@@ -17,4 +17,6 @@ You can find an interactive bom with pcb layout, components and their placements
 - Add missing components and properties
 - Fix capacitor footprints for Vishay - MKP386M510200YT4
 
+## 1.2:
+- Use over voltage protection diodes with higher power dissipation
 
